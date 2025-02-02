@@ -1,6 +1,6 @@
 # Frontend Mentor - Clock app solution
 
-This is a solution to the [Clock app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Clock app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM). 
 
 ## Table of contents
 
@@ -12,8 +12,6 @@ This is a solution to the [Clock app challenge on Frontend Mentor](https://www.f
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -47,10 +45,6 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
-
-### What I learned
-
-Leraned about react query.
 
 ## Author
 
